@@ -1,0 +1,3 @@
+rootProject.name = "RealWorldApi"
+include ':app'
+include ':api'
